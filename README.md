@@ -7,3 +7,5 @@ pip install itchat
 
 pip install pillow
 
+需要进行扫码登录
+
